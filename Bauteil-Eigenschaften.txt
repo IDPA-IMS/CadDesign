@@ -1,0 +1,3 @@
+4 Wände
+30 % Infill
+Rest Standarteinstellungen von Bambu-Studio
